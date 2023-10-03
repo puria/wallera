@@ -1,0 +1,25 @@
+{
+  "cwd": "/Users/puria/src/github.com/dyne/wallera",
+  "type": [
+    "capacitor"
+  ],
+  "name": "Wallera",
+  "pkg": "org.dyne",
+  "framework": "svelte",
+  "template": "tabs",
+  "cssPreProcessor": false,
+  "bundler": "vite",
+  "capacitor": {
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkMode": false,
+    "iconFonts": false
+  },
+  "customBuild": false
+}
